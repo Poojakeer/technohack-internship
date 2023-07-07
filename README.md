@@ -1,4 +1,5 @@
 # technohack-internship
+information of three tasks-
 
 ▶▶Task 1- Churn Prediction
 Use a dataset of customer information and build a model that can predict which customers are most likely to leave a company
